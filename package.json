@@ -3,7 +3,7 @@
     "license": "MIT",
     "private": true,
     "scripts": {
-        "start": "npx ts-node src/app.ts"
+        "start": "npx ts-node src/index.ts"
     },
     "devDependencies": {
         "@types/node": "^17.0.42",
